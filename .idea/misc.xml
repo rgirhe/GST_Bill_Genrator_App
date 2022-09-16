@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Rushikesh/Documents/Android Devlopment Project/GST-E-Billing-App/app/src/main/res/layout/activity_bills.xml" value="0.16927083333333334" />
+        <entry key="..\:/Users/Rushikesh/Documents/Mini Projects/GST-E-Billing-App/app/src/main/res/drawable/bill_item_selector.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/Rushikesh/Documents/Mini Projects/GST-E-Billing-App/app/src/main/res/drawable/round_view_black.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/Rushikesh/Documents/Mini Projects/GST-E-Billing-App/app/src/main/res/layout/activity_bills.xml" value="0.1" />
+        <entry key="..\:/Users/Rushikesh/Documents/Mini Projects/GST-E-Billing-App/app/src/main/res/layout/activity_detail.xml" value="0.18587360594795538" />
+        <entry key="..\:/Users/Rushikesh/Documents/Mini Projects/GST-E-Billing-App/app/src/main/res/layout/activity_new_bill.xml" value="0.3169642857142857" />
+        <entry key="..\:/Users/Rushikesh/Documents/Mini Projects/GST-E-Billing-App/app/src/main/res/layout/activity_new_bill_customer.xml" value="0.22" />
+        <entry key="..\:/Users/Rushikesh/Documents/Mini Projects/GST-E-Billing-App/app/src/main/res/layout/activity_save_pdf.xml" value="0.1578125" />
+        <entry key="..\:/Users/Rushikesh/Documents/Mini Projects/GST-E-Billing-App/app/src/main/res/layout/activity_setup_password.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Rushikesh/Documents/Mini Projects/GST-E-Billing-App/app/src/main/res/layout/single_item_bills_layout.xml" value="0.1578125" />
+        <entry key="..\:/Users/Rushikesh/Documents/Mini Projects/GST-E-Billing-App/app/src/main/res/layout/single_item_detail_layout.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Rushikesh/Documents/Mini Projects/GST-E-Billing-App/app/src/main/res/layout/single_item_pdf_layout.xml" value="0.1578125" />
+        <entry key="..\:/Users/Rushikesh/Documents/Mini Projects/GST-E-Billing-App/app/src/main/res/menu/menu_bill.xml" value="0.1578125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
